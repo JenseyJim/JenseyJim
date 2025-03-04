@@ -59,7 +59,8 @@
 
 ## 📌 Proyectos Destacados
 🔹 **[Sistema de Administración de Estacionamientos](https://github.com/JenseyJim/Proyecto-Final-SAE)** 🚗  
-🔹 **[Otro Proyecto Interesante](https://github.com/JenseyJim/Proyecto-Ejemplo)** 🚀  
+🔹 **[IA de Lenguaje de Señas - Samsung Innvovation Campus - Top #2 RD ](https://github.com/Innominados/LenguajeSenas_Web)** 🚀 
+
 
 ---
 
